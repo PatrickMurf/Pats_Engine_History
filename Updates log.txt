@@ -1,0 +1,5 @@
+-> Sep-09-2024
+	-> Successfully rendered the Sandford Bunny in 3D.
+
+-> Sep-11-2024
+	-> ...Actually remembered to start uploading logs/progress to GitHub...
